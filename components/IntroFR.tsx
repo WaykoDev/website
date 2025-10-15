@@ -4,8 +4,8 @@ export function IntroFR() {
       <h1 className="md:text-6xl sm:text-4xl text-xl font-mono md:mb-10 mb-4 font-bold text-center">
         Wayko Infosec
       </h1>
-      <h2 className="md:text-4xl sm:text-2xl text-l font-mono text-center">
-        Writeup, research and chill
+      <h2 className="md:text-4xl sm:text-2xl text-lg font-mono text-center">
+        Rédactions, recherches et détente
       </h2>
     </div>
   );

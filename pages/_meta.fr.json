@@ -9,12 +9,12 @@
     "type": "page"
   },
   "writeups": {
-    "title":"Writeups",
+    "title": "Articles",
     "type": "page"
   }, 
   "links": {
-    "title": "Links",
-    "type":"page"
+    "title": "Liens",
+    "type": "page"
   },
   "contact": {
     "title": "Contact",
