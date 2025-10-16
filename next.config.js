@@ -4,10 +4,6 @@ const withNextra = require("nextra")({
 });
 
 module.exports = withNextra({
-  i18n: {
-    locales: ["en", "fr"],
-    defaultLocale: "en",
-  },
   webpack: (config) => {
     // Add rule for SVG files
     config.module.rules.push({

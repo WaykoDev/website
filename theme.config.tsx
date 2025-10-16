@@ -21,10 +21,6 @@ const config: DocsThemeConfig = {
   footer: {
     text: "Wayko Cellar - All rights reserved © " + new Date().getFullYear(),
   },
-  i18n: [
-    { locale: "en", text: "English" },
-    { locale: "fr", text: "Français" },
-  ],
   darkMode: false,
   nextThemes: {
     defaultTheme: "dark",
